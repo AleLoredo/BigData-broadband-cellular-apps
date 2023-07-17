@@ -22,7 +22,7 @@ En el contexto de una empresa que ofrece servicios vinculados a redes móviles e
 
 El proyecto cuentaba con datos proveniente de distintas fuentes volcados a archivos Ms Excel. La plataforma elegida para la presentación y visualización del reporte fue Google LookerStudio.
 
-## METODOLOGIA:
+## METODOLOGÍA:
 ### ETL
 El objetivo principal fue preparar los datos para su posterior carga y análisis en Looker Studio, una herramienta de visualización y generación de informes con lo cual se procedio segun las siguientes consideraciones:
 
@@ -48,11 +48,9 @@ Se obtuvo finalmente un unico archivo de Excel con dos hojas que se subio a Goog
 (Imágenes)
 
 ## CONCLUSIONES
-- El crecimiento exponencial del acceso a internet a nivel global
-- La velocidad exponencial exponencial de las suscripciones moviles entre 1990 y 2010. 
-- El estancamiento de las suscripciones moviles a nivel global
-- El continuo crecimiento de las suscripciones de banca ancha
-- La inversión de la que inicialmente fuera una hegemonia de occidente por sobre oriente en el acceso a internet y suscripción a lineas moviles.
-
+El actual estudio arrojo como conclusiones que existio un crecimiento del acceso a internet a nivel global a partir del año 2000 y un crecimiento exponencial de las suscripciones moviles entre 1990 y 2010, punto en el cual las suscripciones a redes moviles alcanzaron un punto de inflexión hasta alcanzar un punto de aparente estancamiento en el año 2018 en adelante.
+En contraposición las suscripciones a servicios de internet de banca ancha, consideradas como cantidad desuscripciones por cada 100 habitantes. si bien tuvo un impacto entre los años 2011 y 2015. se recupero luego de 2015 y continua hasta 2020 con un tasa sostenida de crecimiento continuo.
+Algo muy destacado fue la inversión de la que inicialmente fuera una hegemonia de occidente por sobre oriente en el acceso a internet y suscripción a lineas moviles. Se observo que si bien en 2001 la cantidad de usuarios de internet en USA eran unos 140 millones, y en China solo 33 millones, en 2020 China tiene 1000millones de usuarios de internet mientras hay solo 300millones en USA. Ppor otra parte considerando que China en 2020 tenia 1444 millones de habitantes y USA 331 millones el porcentaje de habitantes con acceso a internet en USA sigue siendo mayor con un 90% respecto al de China con un 70%.
+Asimismo se observo que de los paises que 3 de los 4 paises que integran el grupoo conocido como BRIC ocupan el top 5 de paises con mas cantidad de usuarios de internet.
 
 Palabras clave: ETL, datos, Excel, normalización, corrección, Looker Studio, análisis, visualización.eficiente para la toma de decisiones informadas.
