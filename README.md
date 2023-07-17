@@ -53,4 +53,4 @@ En contraposición las suscripciones a servicios de internet de banca ancha, con
 Algo muy destacado fue la inversión de la que inicialmente fuera una hegemonia de occidente por sobre oriente en el acceso a internet y suscripción a lineas moviles. Se observo que si bien en 2001 la cantidad de usuarios de internet en USA eran unos 140 millones, y en China solo 33 millones, en 2020 China tiene 1000millones de usuarios de internet mientras hay solo 300millones en USA. Ppor otra parte considerando que China en 2020 tenia 1444 millones de habitantes y USA 331 millones el porcentaje de habitantes con acceso a internet en USA sigue siendo mayor con un 90% respecto al de China con un 70%.
 Asimismo se observo que de los paises que 3 de los 4 paises que integran el grupoo conocido como BRIC ocupan el top 5 de paises con mas cantidad de usuarios de internet.
 
-Palabras clave: ETL, datos, Excel, normalización, corrección, Looker Studio, análisis, visualización.eficiente para la toma de decisiones informadas.
+Palabras clave: ETL, datos, Excel, normalización, Looker Studio, análisis de datos, visualización
