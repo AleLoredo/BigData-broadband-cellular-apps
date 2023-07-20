@@ -45,6 +45,8 @@ El objetivo principal fue preparar los datos para su posterior carga y análisis
 Se obtuvo finalmente un unico archivo de Excel con dos hojas que se subio a Google Drive. Allī se lo convirtio a un libro de Google Spreadsheets para ser consumido por LookerStudio.
 
 ## RESULTADOS
+https://lookerstudio.google.com/s/vnpzffEAGOw
+
 [(Imágenes)](https://lookerstudio.google.com/s/vnpzffEAGOw)
 
 ## CONCLUSIONES
