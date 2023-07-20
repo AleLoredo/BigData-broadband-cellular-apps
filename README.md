@@ -1,5 +1,8 @@
 # Análisis y visualización de la evolución histórica del acceso a internet de los mercados y a nivel global.
 
+#Acceso a internet.Conexiones de banda ancha, lineas celulares y aplicaciones.
+#Análisis de situación y evolución histórica a nivel global y de mercados de interés
+
 ## RESUMEN:
 En el contexto de una empresa que ofrece servicios vinculados a redes móviles en cinco países se solicitó realizar un estudio sobre el acceso a internet en lineas de alta velocidad y por suscripcion a lineas moviles tanto a nivel comparativo de la situación actual como de la evolución historica en diferentes mercados puntuales y a nivel global.
 El proyecto contaba con datos provenientes de distintas fuentes volcados a archivos Ms Excel a los cuales fue necesario aplicarles múltiples procesos de transformación. Una vez concluida la etapa de ETL los datos se vincularon a LookerStudio donde se realizo el informe para su entrega y visualización.
