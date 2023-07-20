@@ -48,7 +48,7 @@ Se obtuvo finalmente un unico archivo de Excel con dos hojas que se subio a Goog
 
 [Ver informe en formato PDF](/Evolución_histórica_del_acceso_a_internet_y_otros.pdf)
 
-[Ver informe en LookerStudio](https://lookerstudio.google.com/s/vnpzffEAGOw/)
+[Ver informe en LookerStudio](https://lookerstudio.google.com/s/vnpzffEAGOw)
 
 
 ## CONCLUSIONES
