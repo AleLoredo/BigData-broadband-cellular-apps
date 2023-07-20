@@ -45,7 +45,7 @@ El objetivo principal fue preparar los datos para su posterior carga y análisis
 Se obtuvo finalmente un unico archivo de Excel con dos hojas que se subio a Google Drive. Allī se lo convirtio a un libro de Google Spreadsheets para ser consumido por LookerStudio.
 
 ## RESULTADOS
-(Imágenes)
+[(Imágenes)](https://lookerstudio.google.com/s/vnpzffEAGOw)
 
 ## CONCLUSIONES
 Los datos analizados en el actual estudio arrojo como conclusiones que existio un crecimiento del acceso a internet a nivel global a partir del año 2000 y un crecimiento exponencial de las suscripciones moviles entre 1990 y 2010, punto en el cual las suscripciones a redes moviles alcanzaron un punto de inflexión hasta alcanzar un punto de aparente estancamiento en el año 2018 en adelante.
