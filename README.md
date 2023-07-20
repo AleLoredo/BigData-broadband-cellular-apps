@@ -1,6 +1,4 @@
-# Análisis y visualización de la evolución histórica del acceso a internet de los mercados y a nivel global.
-
-# Acceso a internet.Conexiones de banda ancha, lineas celulares y aplicaciones.
+# Acceso a internet. Conexiones de banda ancha, lineas celulares y aplicaciones.
 # Análisis de situación y evolución histórica a nivel global y de mercados de interés
 
 ## RESUMEN:
