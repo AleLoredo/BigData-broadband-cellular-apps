@@ -57,7 +57,7 @@ Se obtuvo finalmente un unico archivo de Excel con dos hojas que se subio a Goog
 ![Página 7](/images/looker7.jpg)
 ![Página 8](/images/looker8.jpg)
 
-[Ver informe en LookerStudio](https://lookerstudio.google.com/s/vnpzffEAGOw)
+[Ver informe en LookerStudio](https://lookerstudio.google.com/reporting/6402bcde-ea68-44eb-b3df-e3ba3131e530)
 
 
 ## CONCLUSIONES
